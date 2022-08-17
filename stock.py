@@ -345,6 +345,7 @@ class Product:
             self.message['text'] = 'Todavia no se vendieron 5 productos'
 
 
+
 if __name__ == '__main__':
     window = Tk()
     application = Product(window)
